@@ -36,7 +36,7 @@ Nota abstracao: 1.3
 
 *********** Total QUALIDADE DO CODIGO(max. 4 val)***************
 
-Nota: 3.2
+Qualidade do codigo: 3.2
 
 ## Avaliação execução do codigo
 
