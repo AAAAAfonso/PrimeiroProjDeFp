@@ -1,6 +1,5 @@
-Tas a ler ISTo, caiste na minha armadilha, MORRE
+# Primeiro Projeto de Fundamentos da Programação
 
+Meu Primeiro Projeto em qualquer linguagem de Programação
 
-
-
-tou a gozar XD, sou novo nisto só isso
+## Jogo do Galo
